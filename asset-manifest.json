@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react_mini_project/static/css/main.5c647386.css",
+    "main.js": "/react_mini_project/static/js/main.ac049d47.js",
+    "static/media/home_page.jpg": "/react_mini_project/static/media/home_page.08664fe54f870623f8b1.jpg",
+    "static/media/coridor.jpg": "/react_mini_project/static/media/coridor.88595c8453c4b22079c0.jpg",
+    "static/media/working.jpg": "/react_mini_project/static/media/working.42d539279f4641563b11.jpg",
+    "static/media/colleagues.jpg": "/react_mini_project/static/media/colleagues.046d47349d304345e7ed.jpg",
+    "static/media/meeting.jpg": "/react_mini_project/static/media/meeting.16c54dce4a9bd5226630.jpg",
+    "static/media/discussion.jpg": "/react_mini_project/static/media/discussion.6c4dd7e2e0af11a4c446.jpg",
+    "index.html": "/react_mini_project/index.html",
+    "main.5c647386.css.map": "/react_mini_project/static/css/main.5c647386.css.map",
+    "main.ac049d47.js.map": "/react_mini_project/static/js/main.ac049d47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c647386.css",
+    "static/js/main.ac049d47.js"
+  ]
+}
